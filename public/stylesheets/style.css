@@ -1,0 +1,30 @@
+ .maincontainer 
+    {
+         letter-spacing:0.1px; 
+         font-family: Barlow Condensed;
+          display: flex;
+           justify-content:center;
+           align-items: center;
+           height: 100%;
+
+    }
+    .box { 
+    display:flex;
+    align-items:center; 
+    background:#fff;
+    width:800px;
+    height:auto;
+     flex-direction: column;
+     border: 1px solid #a4b0be;
+     border-radius: 10px;
+     padding: 10px;
+     }
+     .headingbox{ 
+        display: flex;
+   border-radius: 5px;
+   background: #95afc0;
+   width:170px;
+   margin: 10px 10px 0px 10px;
+   padding:5px;
+   align-self: flex-start;
+   }
