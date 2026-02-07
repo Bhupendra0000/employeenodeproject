@@ -1,5 +1,5 @@
 Employee Management System (Node.js)
-
+------------------------------------
 A full-stack Employee Management System built using Node.js, Express.js, MySQL, and EJS.
 This project provides secure admin authentication and complete employee record management with image upload and database integration.
 
